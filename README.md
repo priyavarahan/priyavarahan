@@ -3,7 +3,8 @@
 
 -📊 I'm deeply passionate about data analytics and data science.
 
--🔧 My technical skills include Python, R, SQL, machine learning, data visualization, and cloud technologies like AWS, Google Cloud, and Microsoft Azure. I'm proficient with data science libraries such as PySpark, Scikit-Learn, NumPy, and Pandas, and tools like Tableau and  Power BI
+-🔧 My technical skills include Python, R, SQL, machine learning, data visualization, and cloud technologies like AWS, Google Cloud, and Microsoft Azure. I'm proficient with data science libraries such as PySpark, Scikit-Learn, NumPy, and Pandas, and tools like Tableau and  Power BI.
+
 -👀 I’m interested in roles such as Data Analyst, Data Scientist, Business Analyst and Business Intelligence Engineer.
 
 -📫 How to reach me:
